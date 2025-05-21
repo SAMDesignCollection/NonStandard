@@ -1,0 +1,34 @@
+FONTLOG for Non Standard
+
+This file provides detailed information on the Non Standard font software. This information should be distributed along with Non Standard and any derivative works.
+
+Basic Font Information
+
+Non Standard is a Unicode typeface family that supports all languages that use the Latin script and its variants, includes support for pinyin, and could be expanded to support other scripts.
+
+Non Standard is created for the SAM Design Collection, and is available under the SIL Open Source Font license.
+https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+
+Non Standard is a typeface modification based on Standard by Bryce Wilner.
+https://github.com/brycewilner/Standard
+
+Changelog
+
+May 2025 (Ying Tong Tan)
+—Initial release
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address
+(if you have one) (W) and description (D). This list is in alphabetical order.
+If you make modifications be sure to add your name (N), email (E), web-address (if you have one) (W) and description (D). This list is in alphabetical order.
+
+N: Ying Tong Tan
+E: mail@yingtongtan.com
+W: http://yingtongtan.com
+D: Designer — Width variants and stylistic sets, support for Hanyupinyin glyphs, addition of kerning pairs
+
+N: Bryce Wilner
+E: wilnerbs@gmail.com
+W: http://brycewilner.com
+D: Designer — original Roman glyphs

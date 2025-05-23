@@ -12,6 +12,19 @@ https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 Non Standard is a typeface modification based on Standard by Bryce Wilner.
 https://github.com/brycewilner/Standard
 
+For randomisation of glyphs to occur, ensure that Opentype features are enabled for stylistic sets ss01, ss02, ss03.
+For desktop usage, access Stylistic Sets through OpenType.
+
+For use on sites/browsers, Opentype should also be enabled for calt, stylistic sets, liga, kern:
+font-feature-settings: "calt" 1; "ss01" 1; "liga" 1; "kern" 1;
+
+  -webkit-font-feature-settings: "calt" 1; "ss01" 1; "liga" 1; "kern" 1
+  -moz-font-feature-settings:    "calt" 1; "ss01" 1; "liga" 1; "kern" 1
+  -ms-font-feature-settings:     "calt" 1; "ss01" 1; "liga" 1; "kern" 1
+  font-feature-settings:         "calt" 1; "ss01" 1; "liga" 1; "kern" 1
+
+
+
 Changelog
 
 May 2025 (Ying Tong Tan)
